@@ -28,7 +28,7 @@ FluentFlash — это графическая утилита для записи
 
 ## 📥 Скачать
 
-[Скачать последнюю версию](ссылка_на_файл)  
+[Скачать последнюю версию](https://github.com/winintern/FluentFlash/releases/download/V1.0/FluentFlash-1.0-x86_64.AppImage)  
 Файл: `FluentFlash-1.0-x86_64.AppImage`
 
 ---
